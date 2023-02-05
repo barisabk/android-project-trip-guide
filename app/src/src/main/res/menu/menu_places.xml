@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/razhodki"
+        android:icon="@drawable/walking"
+        android:title="Разходки" />
+    <item
+        android:id="@+id/plaj"
+        android:icon="@drawable/beach2"
+        android:title="Плаж" />
+    <item
+        android:id="@+id/snimki"
+        android:icon="@drawable/photo"
+        android:title="Снимки" />
+</menu>
