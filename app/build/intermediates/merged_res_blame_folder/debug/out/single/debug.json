@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\font_marck_script.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\font\\marck_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_fragment_frag_place_1.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\fragment_frag_place_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable-v24_walking.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable-v24\\walking.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\menu_menu_places.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\menu\\menu_places.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_fragment_frag3.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\fragment_frag3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable-v24_seagul.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable-v24\\seagul.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_heart_no_fill.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\heart_no_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_snimki.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\snimki.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_gledka_galata.jpg.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\gledka_galata.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_morska_gradina.jpg.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\morska_gradina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_fragment_frag1.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\fragment_frag1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_drujba.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\drujba.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_profile_and_settings.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\profile_and_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_plaj.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\plaj.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_fragment_frag4.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\fragment_frag4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\font_comfortaa_bold.ttf.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\font\\comfortaa_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_azalia.jpg.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\azalia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_fragment_frag_place_3.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\fragment_frag_place_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_fara.jpg.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\fara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\menu_mymenu.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\menu\\mymenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_fragment_frag_place_2.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\fragment_frag_place_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable-v24_beach.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable-v24\\beach.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_razhodki.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\razhodki.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable-v24_info_varna.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable-v24\\info_varna.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable-v24_beach2.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable-v24\\beach2.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_ic_baseline_arrow_right_alt_24.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\ic_baseline_arrow_right_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_layout_red.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\layout_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable-v24_photo.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable-v24\\photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable_kolelo_morska_gara.jpg.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable\\kolelo_morska_gara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\layout_fragment_frag2.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\layout\\fragment_frag2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Кари\\.gradle\\daemon\\7.3.3\\com.example.kursovarabota.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]
